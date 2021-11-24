@@ -1,8 +1,6 @@
 # Diving
+Dran and drop Local and Roaming into Appdata
 
-
-Procaine.rpf -> AppData\Local\FiveM\FiveM.app\mods
-
-Gta5_settings.xml -> AppData\Roaming\CitizenFX
-
-Common -> AppData\Local\FiveM\FiveM.app\citizen
+Procainev1.rpf -> AppData\Local\FiveM\FiveM.app\mods (Regular Procaine model with multi coloured)
+Or
+Procainev2.rpf -> AppData\Local\FiveM\FiveM.app\mods (Safe model multi coloured)
